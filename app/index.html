@@ -25,22 +25,23 @@
     <!-- Site Properities -->
     <title>Aerogear Sync - Collaborative drawing example</title>
 
-    <link rel="stylesheet" type="text/css" href="app.css">
+    <link rel="stylesheet" type="text/css" href="/app/app.css">
 </head>
 <body>
 
 
-<div style="height: 90%;">
-    <div id="canvasContainer">
-        <canvas id="theCanvas"></canvas>
-    </div>
-</div>
+<canvas id="theCanvas"></canvas>
+
+<button id="addRectButton">Add rect</button>
 
 </body>
 
+<script type="text/javascript" src="../bower_components/fast-json-patch/dist/json-patch-duplex.min.js"></script>
+<script type="text/javascript" src="../bower_components/aerogear-diff-sync/aerogear.diff-sync.js"></script>
 <script type="text/javascript" src="../bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="../bower_components/fabric/dist/fabric.js"></script>
 
-<script type="text/javascript" src="app.js"></script>
+<script type="text/javascript" src="/app/app.js"></script>
 
 
 </html>

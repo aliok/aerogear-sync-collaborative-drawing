@@ -14,3 +14,6 @@
  * limitations under the License.
  */
 
+#theCanvas{
+    border: 1px solid #cccccc;
+}
