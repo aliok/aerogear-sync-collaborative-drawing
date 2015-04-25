@@ -13,10 +13,16 @@ See the demo video on [Youtube](https://youtu.be/u69Z1NmTgnQ).
 * Node with NPM: <https://nodejs.org/>
 * Bower : `npm install bower -g`
 * Gulp : `npm install gulp -g`
+* Aerogear Sync server : See instructions below.
 
 # Instructions
 
-Run the Aerogear Sync server. See <https://github.com/aerogear/aerogear-sync-server/#starting-the-json-patch-server> 
+Start the Aerogear Sync server. See <https://github.com/aerogear/aerogear-sync-server/#starting-the-json-patch-server> 
+
+Clone the repo and cd in:
+    
+    git clone https://github.com/aliok/aerogear-sync-collaborative-drawing
+    cd aerogear-sync-collaborative-drawing
 
 Issue following commands:
 
