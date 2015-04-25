@@ -1,6 +1,31 @@
 # aerogear-sync-collaborative-drawing
 An Aerogear Sync example for collaborative drawing on a canvas
 
+# Screencast
+
+<!--- See http://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md --->
+[![demo](http://img.youtube.com/vi/u69Z1NmTgnQ/0.jpg)](https://youtu.be/u69Z1NmTgnQ)
+
+See the demo video on [Youtube](https://youtu.be/u69Z1NmTgnQ).
+
+# Requirements
+
+* Node with NPM: <https://nodejs.org/>
+* Bower : `npm install bower -g`
+* Gulp : `npm install gulp -g`
+
+# Instructions
+
+Run the Aerogear Sync server. See <https://github.com/aerogear/aerogear-sync-server/#starting-the-json-patch-server> 
+
+Issue following commands:
+
+    npm install
+    bower install
+    gulp
+
+Open <http://localhost:3000/> in your browser. Better multiple windows so that you can see the point.
+
 # License
 
     Copyright [2015] [Ali Ok - aliok AT apache DOT org]
