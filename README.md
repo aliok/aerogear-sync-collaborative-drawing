@@ -1,3 +1,11 @@
+## Introduction
+
+This demo is part of the Aerogear cookbook. See https://github.com/aerogear/aerogear-js-cookbook#cookbook-apps for more of them. 
+
+Aerogear people were very kind to push it to their official repo: <https://github.com/aerogear/aerogear-js-cookbook/tree/master/diff-sync-canvas>
+
+
+
 # aerogear-sync-collaborative-drawing
 An Aerogear Sync example for collaborative drawing on a canvas
 
